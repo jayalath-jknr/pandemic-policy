@@ -1,0 +1,17 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+
+# API keys and config
+config/settings.py
+
+# Logs
+logs/
+
+# Data files
+data/

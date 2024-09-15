@@ -1,0 +1,14 @@
+
+streamlit
+crewai
+autogen
+agentops
+composio_core 
+composio_openai
+together
+llama3
+ai_ml_api
+pandas
+matplotlib
+plotly
+python-dotenv
